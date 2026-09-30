@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "product": "ai-builder-studio",
-  "version": "3.0.0-beta.4",
+  "version": "3.0.0-beta.5",
   "min_sketchup": 2021,
-  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/0155789b4a53d355557f53adc647971c9c4e4a79/packages/AI_Builder_Studio_3.0_Beta4.rbz",
-  "bytes": 56026,
-  "sha256": "3c81afa3e4cca717d2492c8ad462bb945232561606781e12f028890ecb324371",
-  "notes": "Beta 4: cấu hình sẵn nguồn cập nhật GitHub; giữ cài đặt riêng và chế độ tự kiểm tra. Cài xong cần khởi động lại SketchUp. Chưa nghiệm thu cài đặt trên SketchUp Windows."
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/ff106d8879181d771c9fac8cf672b58e59d38a06/packages/AI_Builder_Studio_3.0_Beta5.rbz",
+  "bytes": 55096,
+  "sha256": "76eac547cd701825f6291c1157bf844da44676a366f96b4d25f88b0bb616cbff",
+  "notes": "Hai nút riêng trên toolbar: Dựng JSON và AI 3D (chưa tích hợp). Một prompt chung; lựa chọn Chỉ gỗ, Màu, Theo khổ ván ở khu vực xem trước. Tự tính lại trước khi đặt; lưu JSON gốc cùng lựa chọn xuất. Tinh gọn giao diện, giữ quy chuẩn và mẫu cũ. Chưa nghiệm thu trực tiếp trên SketchUp Windows."
 }
