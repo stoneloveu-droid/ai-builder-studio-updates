@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "product": "ai-builder-studio",
-  "version": "3.0.0-beta.6",
+  "version": "3.0.0-beta.7",
   "min_sketchup": 2021,
-  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/f2792632a2a6f92d4b4b09728b9007888a14b8b1/packages/AI_Builder_Studio_3.0_Beta6.rbz",
-  "bytes": 56037,
-  "sha256": "04d513c63f5315b00ea1104b7e4ff9356088d6d980481f4bfe6cb5f7d621fa29",
-  "notes": "Sửa cập nhật khi đường raw.githubusercontent.com bị timeout: tự thử đường GitHub API cho cùng tệp. Giữ HTTPS và kiểm tra SHA-256. Báo lỗi kết nối dễ hiểu hơn. Nếu bản cũ không tải được, cài RBZ trực tiếp một lần rồi khởi động lại SketchUp. Giữ toàn bộ chức năng Beta 5."
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/b4aaddbc077b48df4230fad62cd139f56b799c52/packages/AI_Builder_Studio_3.0_Beta7.rbz",
+  "bytes": 58649,
+  "sha256": "c1298e3f40aec151a3dfbc37fb53e394e20e44418290694cc9b3cbfb00658813",
+  "notes": "Hai chế độ Đúng khổ ván / Tự do, luôn giữ vật liệu và màu. Prompt hướng dẫn giữ đường nét, khoảng rỗng, chọn hình và kiểm tra lắp ghép. Gom lỗi solid theo ID, nêu rõ bán kính sai. Tự do hiện cảnh báo chồng tấm; Đúng khổ ván chặn giao tấm. Nhận JSON cũ parts/position, chuyển sang schema 3. Đã đối chiếu mẫu con tiện 92 chi tiết và tủ sửa đợt. Chưa nghiệm thu trực tiếp trên SketchUp Windows."
 }
