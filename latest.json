@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "product": "ai-builder-studio",
+  "version": "3.0.0-beta.4",
+  "min_sketchup": 2021,
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/0155789b4a53d355557f53adc647971c9c4e4a79/packages/AI_Builder_Studio_3.0_Beta4.rbz",
+  "bytes": 56026,
+  "sha256": "3c81afa3e4cca717d2492c8ad462bb945232561606781e12f028890ecb324371",
+  "notes": "Beta 4: cấu hình sẵn nguồn cập nhật GitHub; giữ cài đặt riêng và chế độ tự kiểm tra. Cài xong cần khởi động lại SketchUp. Chưa nghiệm thu cài đặt trên SketchUp Windows."
+}
