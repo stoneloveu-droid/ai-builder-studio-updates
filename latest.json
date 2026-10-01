@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "product": "ai-builder-studio",
-  "version": "3.0.0-beta.7",
+  "version": "3.0.0-beta.8",
   "min_sketchup": 2021,
-  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/b4aaddbc077b48df4230fad62cd139f56b799c52/packages/AI_Builder_Studio_3.0_Beta7.rbz",
-  "bytes": 58649,
-  "sha256": "c1298e3f40aec151a3dfbc37fb53e394e20e44418290694cc9b3cbfb00658813",
-  "notes": "Hai chế độ Đúng khổ ván / Tự do, luôn giữ vật liệu và màu. Prompt hướng dẫn giữ đường nét, khoảng rỗng, chọn hình và kiểm tra lắp ghép. Gom lỗi solid theo ID, nêu rõ bán kính sai. Tự do hiện cảnh báo chồng tấm; Đúng khổ ván chặn giao tấm. Nhận JSON cũ parts/position, chuyển sang schema 3. Đã đối chiếu mẫu con tiện 92 chi tiết và tủ sửa đợt. Chưa nghiệm thu trực tiếp trên SketchUp Windows."
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/97512ddb77658023c4a3d211a4755445bdbf576c/packages/AI_Builder_Studio_3.0_Beta8.rbz",
+  "bytes": 60284,
+  "sha256": "064ba2b83726579bdc6b71a3137d159bf76f8a7d70a6bcc013c76accfb3abd23",
+  "notes": "• Tag Canh cho cánh tủ\n• Khe cánh đồng nhất\n• Nút Kích thước trên toolbar\n• Vách lam có nền\n• Tên cấu kiện viết tắt tiếng Anh\n• Thông báo cập nhật tự động\n\nKhởi động lại SketchUp sau khi cài. Lấy prompt mới để dùng cấu tạo lam."
 }
