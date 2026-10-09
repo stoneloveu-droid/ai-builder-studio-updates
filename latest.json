@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "product": "ai-builder-studio",
-  "version": "3.0.0-beta.10",
+  "version": "3.0.0-beta.11",
   "min_sketchup": 2021,
-  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/8c14d2be849a092b6e29a4c60033f0798aedd780/packages/AI_Builder_Studio_3.0_Beta10.rbz",
-  "bytes": 64470,
-  "sha256": "a584f9e0c761fc32ae31e5ca80ae9fbfdd635dba87ba61ad9b07a64b4c8908cc",
-  "notes": "Tự kiểm tra khi SketchUp khởi động; có bản mới tự mở bảng Cập nhật ngay/Để sau. Bảo vệ vật liệu chỉnh tay và rollback updater. Bản cũ chưa có startup cần cài RBZ lần đầu để bật luồng này."
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/0456cd3cedc8eb0fce7287a948ca42446dfd4bf7/packages/AI_Builder_Studio_3.0_Beta11.rbz",
+  "bytes": 64809,
+  "sha256": "72cfb443a28ddbab7a74767e6a004478b5cf869ca697207a395c5d1a62970423",
+  "notes": "Tự kiểm tra khi mở SketchUp, có bản mới tự hiện bảng Cập nhật ngay/Để sau. Bổ sung log chẩn đoán startup/feed/bảng sẵn sàng. Không đổi engine hình học. Bản cũ chưa có startup cần cài RBZ một lần."
 }
