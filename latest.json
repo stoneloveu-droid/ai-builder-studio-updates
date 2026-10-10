@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "product": "ai-builder-studio",
-  "version": "3.0.0-beta.11",
+  "version": "3.0.0-beta.12",
   "min_sketchup": 2021,
-  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/0456cd3cedc8eb0fce7287a948ca42446dfd4bf7/packages/AI_Builder_Studio_3.0_Beta11.rbz",
-  "bytes": 64809,
-  "sha256": "72cfb443a28ddbab7a74767e6a004478b5cf869ca697207a395c5d1a62970423",
-  "notes": "Tự kiểm tra khi mở SketchUp, có bản mới tự hiện bảng Cập nhật ngay/Để sau. Bổ sung log chẩn đoán startup/feed/bảng sẵn sàng. Không đổi engine hình học. Bản cũ chưa có startup cần cài RBZ một lần."
+  "url": "https://raw.githubusercontent.com/stoneloveu-droid/ai-builder-studio-updates/d931726ef4d3bd8d5e666d27b440fcb3ea886d72/packages/AI_Builder_Studio_3.0_Beta12.rbz",
+  "bytes": 65092,
+  "sha256": "24b5992fe9b6c33bf236713898983cabb9e56102abcf6ab4245363cd096c2da1",
+  "notes": "Sửa nhận hệ số Scale trên SketchUp: tính lại cấu kiện và giữ chiều dày/khe; giữ Mirror/Move/Rotate, Undo/Redo. Đã kiểm API native SketchUp 2025 và lưu/mở SKP; chưa nghiệm thu Scale bằng chuột/cài rollback native. DC Redraw chưa tương thích, dùng Kích thước/Scale của Studio."
 }
